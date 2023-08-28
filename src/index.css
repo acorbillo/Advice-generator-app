@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color:  hsl(218, 23%, 16%);
+    display: grid;
+    place-items: center;
+}
+
+.button:hover {
+    box-shadow: 0 0 50px rgba(82, 255, 169, 0.5);
+}
+
+@layer components {
+    .card {
+        @apply  text-white text-center bg-darkGrayishBlue w-10/12 md:w-full py-20 px-7 flex flex-col items-center space-y-10 md:max-w-2xl md:space-y-16 rounded-3xl font-mainFont
+    }
+}
