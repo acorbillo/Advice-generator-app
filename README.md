@@ -1,6 +1,6 @@
 # Advice Generator App
 
-This is a solution for the [Frontend Mentor](https://www.frontendmentor.io) challenge - [Advice Generator App](https://www.frontendmentor.io/challenges/advice-app-DuUX1JN).
+This is a solution for the [Frontend Mentor](https://www.frontendmentor.io) challenge - [Advice Generator App](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub).
 
 ## Features
 
